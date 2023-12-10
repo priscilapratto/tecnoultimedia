@@ -1,0 +1,67 @@
+body{
+background-color: rgb(204, 241, 210);
+}
+
+header{
+background-color: rgb(164, 253, 164);
+text-align: center;
+
+
+}
+div{
+    width: 1200px ;
+    max-width: 95%;
+    margin:0 auto ;
+    
+    }
+    article {
+        background-color: rgb(225, 245, 221);
+        text-align: left;
+        padding: 5px;
+        margin: 5px;
+        }
+        nav li {
+            display: inline-block;
+            
+            
+            }
+             
+            nav a {
+                text-decoration: none;
+                color: rgb(0, 0, 0);
+                background-color: rgb(164, 253, 164);
+                padding: 10px;
+                display: inline-block;
+            
+            }
+            
+            nav a:hover {
+                 color: rgb(206, 11, 11);
+                 background-color: rgb(48, 3, 3);
+             
+            }
+            .centro {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                border: 2px dotted gray;
+                width: 40%;
+             
+            }
+
+            .adaptable {
+                width: 100%;
+                height: auto;
+                }
+
+             .costado{
+                display: block;
+                margin-left: 40%;
+                margin-right: auto;
+                border: 2px dotted gray;
+                width: 40%;
+
+
+                }
+                
+                
